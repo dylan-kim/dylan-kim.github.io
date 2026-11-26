@@ -48,4 +48,4 @@ jobs:
 
 This can be a lightweight alternative to the newly released Claude Approvals.
 
-For reference: [https://lnkd.in/etbN4ikM](https://lnkd.in/etbN4ikM)
+For reference: https://github.com/marketplace/actions/low-risk-pr-labeler
